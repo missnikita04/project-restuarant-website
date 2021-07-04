@@ -1,0 +1,108 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color:dimgray;
+    background-image: url("asset/restaurant-food-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+
+header{
+    height: 120px;
+    width: 1024px;
+    text-align: center;
+
+}
+   
+
+
+nav{
+    background-color:rgba(0, 0, 0, 0.338);
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+
+}
+nav a{
+    text-decoration:none ;
+    font-size: 12px;
+    padding-right:10px;
+    padding-left:10px;
+    color: white;
+
+}
+
+main{
+    height: 400px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 80px
+    
+}
+
+footer{
+    background-color:black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+    color:seashell;
+}
+h1{
+    font-size: 84px;
+     color:white;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-size: 18px;
+    color:white;
+    font-family: sans-serif;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+a{
+    color:greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*text-decoration: none;*/
+}
+a:hover{
+    color:yellow;
+}
+.maps{
+    padding-bottom: 100px;
+}
+#image-1{
+    margin: auto;
+    width: 220px;
+}
+.second-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    background-color: yellow;
+    
+   
+}
+#all-background{
+    background-color: violet;
+}
+
