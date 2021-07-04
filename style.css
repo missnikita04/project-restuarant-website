@@ -6,6 +6,7 @@ html{
 body{
     background-color:dimgray;
     background-image: url("asset/restaurant-food-background.jpg");
+    min-height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
